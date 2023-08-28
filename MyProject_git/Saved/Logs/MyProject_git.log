@@ -2158,3 +2158,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.28-15.05.30:066][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
 [2023.08.28-15.05.30:067][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
 [2023.08.28-15.05.52:498][952]LogDerivedDataCache: C:/Users/Grazewal Singh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.035 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19579 files in 21066 folders with total size 5034 MiB.
+[2023.08.28-15.15.30:425][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.08.28-15.15.30:425][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-15.25.30:846][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.28-15.25.30:846][218]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-15.35.31:285][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.28-15.35.31:286][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.010
+[2023.08.28-15.45.32:020][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.08.28-15.45.32:021][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.010
+[2023.08.28-15.55.32:459][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.08.28-15.55.32:460][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-16.05.32:884][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.08.28-16.05.32:884][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.010
+[2023.08.28-16.05.52:482][483]LogDerivedDataCache: C:/Users/Grazewal Singh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.018 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19579 files in 21066 folders with total size 5034 MiB.
+[2023.08.28-16.15.33:303][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.08.28-16.15.33:303][224]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.010
+[2023.08.28-16.25.33:723][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.08.28-16.25.33:724][ 25]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-16.35.34:179][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.08.28-16.35.34:180][826]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
