@@ -2192,3 +2192,113 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.28-16.45.46:991][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 7.87 sec)
 [2023.08.28-16.45.46:995][138]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_BCE92FFA0C57E9A301_1177529296
 [2023.08.28-16.45.46:995][138]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_BCE92FFA0C57E9A301_1177529296
+[2023.08.28-16.46.13:938][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.08.28-16.46.13:939][316]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.016
+[2023.08.28-16.56.44:919][610]LogSlate: Window 'Plugins' being destroyed
+[2023.08.28-16.56.44:924][610]LogSlate: Window 'Plugins' being destroyed
+[2023.08.28-16.56.45:284][610]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.08.28-16.57.07:586][741]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (High Definition Audio Device), InstanceID=1
+[2023.08.28-16.57.07:819][741]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15840
+[2023.08.28-16.57.08:093][742]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7a5e2aa4-9cc9-4623-991e-b9193be4032d}, Name=Speakers (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.15
+[2023.08.28-16.57.08:093][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.08.28-16.57.08:095][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.08.28-16.57.10:855][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.08.28-16.57.10:857][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.011
+[2023.08.28-17.05.52:485][315]LogDerivedDataCache: C:/Users/Grazewal Singh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.021 and deleted 1 files with total size 0 MiB and 0 empty folders. Scanned 19579 files in 21066 folders with total size 5034 MiB.
+[2023.08.28-17.07.11:270][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.08.28-17.07.11:271][551]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-17.14.07:437][800]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (High Definition Audio Device), InstanceID=1
+[2023.08.28-17.14.07:574][800]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15840
+[2023.08.28-17.14.08:242][802]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4de6c407-a771-4149-add7-43ee5e120b10}, Name=Headphones (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=518.58
+[2023.08.28-17.14.08:242][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.08.28-17.14.08:245][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.08.28-17.17.11:693][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.08.28-17.17.11:694][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.010
+[2023.08.28-17.27.12:430][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.08.28-17.27.12:431][154]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.010
+[2023.08.28-17.37.12:870][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.28-17.37.12:870][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-17.46.38:456][673]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.08.28-17.47.02:875][944]LogSlate: Window 'Message' being destroyed
+[2023.08.28-17.47.02:879][944]Message dialog closed, result: Cancel, title: Message, text: Are you sure you want to proceed with validating the following folders?
+
+/Game
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: URL: C:\Users\Grazewal Singh\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.28-17.47.11:384][401]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.08.28-17.47.11:385][401]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.28-17.47.11:385][401]LogWindows: Warning: URL: C:\Users\Grazewal Singh\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.08.28-17.47.11:385][401]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.08.28-17.47.11:385][401]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.08.28-17.49.27:393][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.08.28-17.49.27:395][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.010
+[2023.08.28-17.51.50:565][952]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.08.28-17.54.32:016][ 28]LogSlate: Window 'Project Settings' being destroyed
+[2023.08.28-17.54.32:022][ 28]LogSlate: Window 'Project Settings' being destroyed
+[2023.08.28-17.55.39:259][710]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.28-17.55.39:292][710]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.28-17.55.39:300][710]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.28-17.55.39:321][711]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.28-17.55.40:791][784]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.08.28-17.55.41:150][784]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.28-17.55.45:548][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.28-17.55.45:620][ 36]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/2/2N/AR4F0S4D6J6YQ5BYAFQR53
+[2023.08.28-17.55.45:620][ 36]LogSavePackage: Moving '../../../../../MyGitGithub/DemoG/MyProject_git/Saved/AR4F0S4D6J6YQ5BYAFQR53AA8AF97B4AE1809BA538FA841BD47538.tmp' to '../../../../../MyGitGithub/DemoG/MyProject_git/Content/__ExternalActors__/Level1/2/2N/AR4F0S4D6J6YQ5BYAFQR53.uasset'
+[2023.08.28-17.55.45:626][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 7.95 sec)
+[2023.08.28-17.55.45:633][ 36]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_BCE92FFA0C57E9A301_1177529296
+[2023.08.28-17.55.45:633][ 36]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_BCE92FFA0C57E9A301_1177529296
+[2023.08.28-17.55.57:827][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Content: 'D:/epic game launcher/UE_5.2/Engine/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Bridge/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Bridge/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/TraceUtilities/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/TraceUtilities/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Media/MediaCompositing/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Media/MediaPlate/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/Metasound/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/WaveTable/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/Synthesis/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Animation/ControlRig/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Animation/IKRig/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/Dataflow/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/UVEditor/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Interchange/Runtime/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/FX/Niagara/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/2D/Paper2D/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/GeometryMode/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/GLTFImporter/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.55.57:828][730]SourceControl: fatal: D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/epic game launcher/UE_5.2/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'D:/MyGitGithub/DemoG'
+[2023.08.28-17.56.09:734][730]LogSlate: Window 'Submit Files' being destroyed
+[2023.08.28-17.56.11:718][730]LogSourceControl: commit successful: [Adriana 7976a38] added bluerint
+[2023.08.28-17.56.11:755][730]SourceControl: [Adriana 7976a38] added bluerint
+[2023.08.28-17.56.11:755][730]SourceControl:  2 files changed, 6 insertions(+)
+[2023.08.28-17.56.11:798][730]SourceControl: Commited [Adriana 7976a38] added bluerint.
