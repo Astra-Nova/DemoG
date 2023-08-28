@@ -2147,3 +2147,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.28-14.15.42:102][923]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/Level1.Level1:PersistentLevel.WorldDataLayers
 [2023.08.28-14.15.42:102][923]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level1.Level1
 [2023.08.28-14.15.42:258][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.28-14.25.27:701][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.28-14.25.27:703][679]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.011
+[2023.08.28-14.35.28:803][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.08.28-14.35.28:803][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-14.45.29:205][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.08.28-14.45.29:206][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-14.55.29:662][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.28-14.55.29:662][ 83]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.010
+[2023.08.28-15.05.30:066][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.08.28-15.05.30:067][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.009
+[2023.08.28-15.05.52:498][952]LogDerivedDataCache: C:/Users/Grazewal Singh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.035 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19579 files in 21066 folders with total size 5034 MiB.
